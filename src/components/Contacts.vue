@@ -5,12 +5,13 @@
         <v-flex xs12 sm4>
           <v-card flat class="transparent">
             <v-card-title primary-title class="layout justify-center">
-              <div class="headline">Rama IEEE Universidad de Chile</div>
+              <div class="headline">Rama Estudiantil IEEE Universidad de Chile</div>
             </v-card-title>
             <v-card-text>
-              Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
-              Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-              Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+              Somos una comunidad oficialmente constituida ante el Institute of Electrical and Electronics Engineers (IEEE),
+              conformado por estudiantes de diferentes áreas académicas de pregrado y postgrado del Departamento de Ingeniería
+              Eléctrica de la Facultad de Ciencias Físicas y Matemáticas de la Universidad de Chile, nuestros objetivos principales
+              son la permanente actualización profesional, la investigación, el desarrollo e implementación de nuevas tecnologías.
             </v-card-text>
           </v-card>
         </v-flex>

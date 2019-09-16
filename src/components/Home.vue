@@ -9,7 +9,7 @@
       >
         <img src="../assets/Ingelectra_logo.png" alt="Vuetify.js" height="300">
         <h1 class="black--text mb-2 display-1 text-center">AVANZANDO A UN FUTURO SOSTENIBLE</h1>
-        <div class="black--text subheading mb-4 text-center">IEEE Universidad de Chile</div>
+        <div class="black--text subheading mb-4 text-center">Rama Estudiantil IEEE Universidad de Chile</div>
         <v-btn
           class="mt-12"
           color="#099ec8"

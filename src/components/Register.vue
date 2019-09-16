@@ -43,7 +43,7 @@
             </tr>
             <tr>
               <td>Estudiantes UChile (No incluye almuerzos)</td>
-              <td>40.000</td>
+              <td>10.000</td>
             </tr>
           </tbody>
         </v-simple-table>
