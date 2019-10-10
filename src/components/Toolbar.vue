@@ -8,6 +8,8 @@
     <v-toolbar-items>
       <v-btn text to="/">INICIO</v-btn>
       <v-btn text  to="/register">REGISTRO</v-btn>
+      <v-btn text  to="/callpapers">CALL FOR PAPERS</v-btn>
+      <v-btn text  to="/venue">VENUE</v-btn>
     </v-toolbar-items>
   </v-toolbar>
 </template>

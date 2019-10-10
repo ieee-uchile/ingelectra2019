@@ -3,6 +3,13 @@ import Vuetify from 'vuetify/lib';
 
 Vue.use(Vuetify);
 
+import VueAnalytics from 'vue-analytics'
+
+Vue.use(VueAnalytics, {
+  id: 'UA-130123561-1',
+  checkDuplicatedScript: true
+})
+
 export default new Vuetify({
   icons: {
     iconfont: 'mdi',
