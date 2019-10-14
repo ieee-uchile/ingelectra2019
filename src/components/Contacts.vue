@@ -21,7 +21,7 @@
               <div class="headline">Contáctenos</div>
             </v-card-title>
             <v-card-text>
-              Si desea mas información sobre el evento no dude en contactarnos.
+              Si desea más información sobre el evento no dude en contactarnos.
             </v-card-text>
             <v-list class="transparent">
 

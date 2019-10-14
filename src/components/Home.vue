@@ -47,9 +47,7 @@
                 <v-card-text class="text-justify">
                   INGELECTRA nace el año 1984 en el sur de Chile como un seminario de estudiantes de
                   ingeniería, impulsado por la Universidad Austral de Chile en su primera versión. En el
-                  transcurso de los años, INGELECTRA se ha convertido en una tradición que se lleva a cabo
-                  una vez al año, por lo general en Agosto, convocando a los estudiantes de las ingenierías
-                  afines al IEEE (Institute of Electrical and Electronic Engineers).
+                  transcurso de los años.
                 </v-card-text>
               </v-card>
             </v-flex>
