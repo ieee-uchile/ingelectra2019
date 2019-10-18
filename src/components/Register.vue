@@ -45,12 +45,46 @@
               <td>Estudiantes UChile (No incluye almuerzos)</td>
               <td>10.000</td>
             </tr>
+            <tr>
+              <td>Autores (los autores pueden asociar máximo 1 paper a su registro)   <strong>*</strong> </td>
+              <td>45.000</td>
+            </tr>
           </tbody>
         </v-simple-table>
       </v-flex>
       <div class="black--text mt-3 text-center">Incluye coffees y almuerzos</div>
-
     </v-layout>
+    <v-flex xs12>
+      <v-container grid-list-xl>
+        <v-layout row wrap align-center>
+          <v-flex xs12 md4>
+            <v-card flat class="transparent">
+            </v-card>
+          </v-flex>
+          <v-flex xs12 md4>
+            <v-card flat class="transparent">
+              <v-card-title primary-title class="layout justify-center">
+                <div class="headline"><v-icon x-large color="#099ec8">mdi-calendar-range</v-icon>
+                  Fechas programadas  (sujetas a cambio)</div>
+              </v-card-title>
+              <v-card-text  >
+                &bull; Fecha límite para el registro de autores  <strong> 14 de noviembre, 2019</strong> <br>
+                &bull; Fecha límite para el registro a INGELECTRA <strong> 17 de noviembre, 2019</strong>  <br>
+                 <br>
+                <i>Cualquier registro luego de las fechas límite tienen un cargo de <strong>15%</strong> adicional al precio regular en cada categoría </i>   <br>
+                <br>
+               <i><strong>*</strong> En caso de que necesite asociar más de un paper a su registro, por favor contáctenos a nuestro correo </i>
+              </v-card-text>
+            </v-card>
+          </v-flex>
+          <v-flex xs12 md4>
+            <v-card flat class="transparent">
+
+            </v-card>
+          </v-flex>
+        </v-layout>
+      </v-container>
+    </v-flex>
 
   </section>
 

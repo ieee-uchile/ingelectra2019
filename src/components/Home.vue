@@ -46,8 +46,7 @@
                 </v-card-title>
                 <v-card-text class="text-justify">
                   INGELECTRA nace el año 1984 en el sur de Chile como un seminario de estudiantes de
-                  ingeniería, impulsado por la Universidad Austral de Chile en su primera versión. En el
-                  transcurso de los años.
+                  ingeniería, impulsado por la Universidad Austral de Chile en su primera versión.
                 </v-card-text>
               </v-card>
             </v-flex>
