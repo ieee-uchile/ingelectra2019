@@ -7,7 +7,9 @@ import VueAnalytics from 'vue-analytics'
 
 Vue.use(VueAnalytics, {
   id: 'UA-130123561-1',
-  checkDuplicatedScript: true
+  autoTracking: {
+   screenview: true
+ }
 })
 
 export default new Vuetify({
