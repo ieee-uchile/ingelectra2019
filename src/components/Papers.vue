@@ -14,7 +14,7 @@
       <v-flex xs12 sm4 class="my-4">
         <div class="text-center">
           <span class="subheading">
-            <v-list-item-group v-model="item" color="primary">
+            <v-list-item-group v-model="itemlist" color="primary">
               <v-list-item
                 v-for="(item, i) in items"
                 :key="i"
@@ -27,13 +27,31 @@
                 </v-list-item-content>
               </v-list-item>
             </v-list-item-group>
+            <v-list-item-group  v-model="item" color="primary">
+              <v-list-item>
+                <v-list-item-icon>
+                  <v-icon x-large color="#099ec8">mdi-bulletin-board</v-icon>
+                </v-list-item-icon>
+                <v-list-item-content>
+                  <v-list-item-title>
+                     Los papers aceptados y presentados en <br>
+                     <b>INGELECTRA2019</b> que cumplan los <br>
+                     estándares de publicación se indexarán en la<br>
+                     <b>base de datos IEEEXplore</b>
+                   </v-list-item-title>
+                </v-list-item-content>
+              </v-list-item>
+            </v-list-item-group>
           </span>
         </div>
       </v-flex>
       <v-flex xs12>
         <v-container grid-list-xl>
           <v-layout row wrap align-center>
-            <v-flex xs12 md4>
+            <v-flex xs12 md2>
+
+            </v-flex>
+            <v-flex xs12 md3>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-information-outline</v-icon>
@@ -49,7 +67,7 @@
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs12 md4>
+            <v-flex xs12 md3>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-format-list-checks</v-icon>
@@ -66,7 +84,7 @@
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs12 md4>
+            <v-flex xs12 md3>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-format-page-break</v-icon>
@@ -97,7 +115,8 @@ export default {
     items: [
       { text: 'Fecha límite (Deadline) 3 de noviembre 2019', icon: 'mdi-clock' },
       { text: 'Notificación a los autores 10 de noviembre', icon: 'mdi-inbox' },
-    ]
+    ],
+    item:0,
   }),
 };
 </script>

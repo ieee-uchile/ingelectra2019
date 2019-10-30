@@ -68,7 +68,7 @@
                   Fechas programadas  (sujetas a cambio)</div>
               </v-card-title>
               <v-card-text  >
-                &bull; Fecha límite para el registro de autores  <strong> 14 de noviembre, 2019</strong> <br>
+                &bull; Fecha límite para el pago y registro de autores  <strong> 14 de noviembre, 2019</strong> <br>
                 &bull; Fecha límite para el registro a INGELECTRA <strong> 17 de noviembre, 2019</strong>  <br>
                  <br>
                 <i>Cualquier registro luego de las fechas límite tienen un cargo de <strong>15%</strong> adicional al precio regular en cada categoría </i>   <br>

@@ -86,13 +86,12 @@
       </v-flex>
     </v-layout>
     <!-- Sponsors -->
-
     <v-parallax src="../assets/the-polygon-1562743.jpg" height="400">
       <v-layout column wrap class="my-12" align-center>
         <v-flex xs12>
           <v-container grid-list-xl>
             <v-layout row wrap align-center>
-              <v-flex xs12 md3>
+              <v-flex xs12 md2>
                   <!-- Content  rama.jpg -->
                   <div class="black--text heading mb-4 text-center font-weight-bold ">ORGANIZADORES</div>
                 <a href="#">
@@ -112,7 +111,7 @@
                   <img src="../assets/fcfm_die_png.png" alt="FCFM" height="20%" width="100%">
                 </a>
               </v-flex>
-              <v-flex xs12 md3>
+              <v-flex xs12 md2>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold">PLATINUM SPONSORS</div>
                 <a href="https://www.isci.cl/" target="_blank">
@@ -130,6 +129,16 @@
                 </a>
                 <a href="https://www.ieee.org/" target="_blank">
                   <img src="../assets/ieee.png" alt="IEEE" height="20%" width="100%">
+                </a>
+              </v-flex>
+              <v-flex xs12 md2>
+                <!-- Content -->
+                <div class="black--text heading text-center font-weight-bold">BRONZE SPONSORS</div>
+                <a href="http://www.uchile.cl/portal/investigacion/centros-y-programas/centros-de-estudio/113400/centro-de-energia" target="_blank">
+                  <img src="../assets/enegia.png" alt="ISCI" height="100%" width="100%">
+                </a>
+                <a href="https://ieeechile.cl/" target="_blank">
+                  <img src="../assets/ieeechile.png" alt="ISCI" height="100%" width="100%">
                 </a>
               </v-flex>
             </v-layout>
