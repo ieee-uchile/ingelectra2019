@@ -13,6 +13,11 @@
     <!-- Event info -->
     <v-layout column wrap class="my-12" align-center>
       <v-flex xs12>
+        <div class="black--text mt-3 text-center mb-4"> <v-icon  color="#099ec8">mdi-file-document-box-plus</v-icon>
+          <a href="https://www.google.com/url?q=https://forms.gle/ogHLNC1bmh2WL4SF8&sa=D&source=hangouts&ust=1572542885137000&usg=AFQjCNFQyAg64I-8zEdusGQpB_hXeIZ9Jg" target="_blank">
+            Formulario de registro
+          </a>
+      </div>
         <v-simple-table class="md12">
           <thead>
             <tr>
