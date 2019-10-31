@@ -1,16 +1,9 @@
+import VueYouTubeEmbed from 'vue-youtube-embed'
+import Vuetify from 'vuetify/lib'
 import Vue from 'vue';
-import Vuetify from 'vuetify/lib';
 
-Vue.use(Vuetify);
-
-import VueAnalytics from 'vue-analytics'
-
-Vue.use(VueAnalytics, {
-  id: 'UA-130123561-1',
-  autoTracking: {
-   screenview: true
- }
-})
+Vue.use(VueYouTubeEmbed)
+Vue.use(Vuetify)
 
 export default new Vuetify({
   icons: {
