@@ -36,12 +36,12 @@
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs7>
+            <v-flex xs6>
               <v-card flat class="transparent">
-                <youtube :video-id="videoId" player-width="900" player-height="500"></youtube>
+                <youtube :video-id="videoId" player-width="100%" player-height="500"></youtube>
               </v-card>
             </v-flex>
-
+            <v-flex xs1>        </v-flex>
           </v-layout>
         </v-container>
       </v-flex>
