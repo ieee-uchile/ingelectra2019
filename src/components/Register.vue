@@ -92,6 +92,7 @@
                 <br>
                 <br>
                 <b>DATOS DE LA CUENTA CORRIENTE</b>  <br>  <hr>
+                <b>ASUNTO</b>:  INSCRIPCIÓN INGELECTRA  <br>
                 <b>NOMBRE</b>: INST DE ING ELECT Y ELECT DE CH  <br>
                 <b>RUT</b>:     70.690.400-K  <br>
                 <b>BANCO</b>: BANCO ESTADO  <br>
