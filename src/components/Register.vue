@@ -68,11 +68,11 @@
             <v-card flat class="transparent">
               <v-card-title primary-title class="layout justify-center">
                 <div class="headline"><v-icon x-large color="#099ec8">mdi-calendar-range</v-icon>
-                  Fechas programadas  (sujetas a cambio)</div>
+                  Fechas (sujetas a cambio)</div>
               </v-card-title>
               <v-card-text  >
                 &bull; Fecha límite para pago de registro de autores  <strong> 14 de noviembre, 2019</strong> <br>
-                &bull; Fecha límite para pago de registro a INGELECTRA <strong> 17 de noviembre, 2019</strong>  <br>
+                &bull; Fecha límite para pago de registro de asistents <strong> 17 de noviembre, 2019</strong>  <br>
                  <br>
                 <i>Cualquier registro luego de las fechas límite tienen un cargo de <strong>15%</strong> adicional al precio regular en cada categoría </i>   <br>
                 <br>
@@ -92,12 +92,12 @@
                 <br>
                 <br>
                 <b>DATOS DE LA CUENTA CORRIENTE</b>  <br>  <hr>
-                <b>ASUNTO</b>:  INSCRIPCIÓN INGELECTRA  <br>
                 <b>NOMBRE</b>: INST DE ING ELECT Y ELECT DE CH  <br>
                 <b>RUT</b>:     70.690.400-K  <br>
                 <b>BANCO</b>: BANCO ESTADO  <br>
                 <b>CC</b>: N°  000-0-012312-9  <br>
                 <b>EMAIL</b>: macortes@ieee.org  <br>
+                <b>ASUNTO</b>:  INSCRIPCIÓN INGELECTRA  <br>
               </v-card-text>
             </v-card>
           </v-flex>

@@ -15,10 +15,10 @@
           color="#099ec8"
           dark
           large
-          href="#"
-          to="/register"
+          :href="programa"
+          target='_blank'
         >
-          Registro
+          Programa
         </v-btn>
       </v-layout>
     </v-parallax>
@@ -74,7 +74,7 @@
                   <div class="headline text-center">Desafíos</div>
                 </v-card-title>
                 <v-card-text  class="text-justify">
-                  El INGELECTRA tiene como desafío potenciar diferentes áreas del conocimiento acordes a
+                  INGELECTRA tiene como desafío potenciar diferentes áreas del conocimiento acordes a
                   las nuevas exigencias del país ante el consenso internacional en el que se inserta Chile a
                   través de tratados con Europa, Norteamérica y Asia, exigen capacidad de innovación y
                   preparación de recursos humanos altamente especializados.
@@ -86,7 +86,7 @@
       </v-flex>
     </v-layout>
     <!-- Sponsors -->
-    <v-parallax src="../assets/the-polygon-1562743.jpg" height="400">
+    <v-parallax src="../assets/the-polygon-1562743.jpg" height="600">
       <v-layout column wrap class="my-12" align-center>
         <v-flex xs12>
           <v-container grid-list-xl>
@@ -110,6 +110,9 @@
                 <a href="http://ingenieria.uchile.cl/" target="_blank">
                   <img src="../assets/fcfm_die_png.png" alt="FCFM" height="20%" width="100%">
                 </a>
+                <a href="https://www.ieee.org/" target="_blank">
+                  <img src="../assets/ieee.png" alt="IEEE" height="20%" width="100%">
+                </a>
               </v-flex>
               <v-flex xs12 md2>
                 <!-- Content -->
@@ -122,13 +125,10 @@
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold mb-3">SILVER SPONSORS</div>
                 <a href="https://www.nic.cl/" target="_blank">
-                  <img src="../assets/Logo_Nic_Chile.png" alt="NIC CHILE" height="20%" width="50%">
+                  <img src="../assets/Logo_Nic_Chile.png" alt="NIC CHILE" height="20%" width="100%">
                 </a>
                 <a href="http://prontus.codelco.cl/" target="_blank">
-                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="50%">
-                </a>
-                <a href="https://www.ieee.org/" target="_blank">
-                  <img src="../assets/ieee.png" alt="IEEE" height="20%" width="100%">
+                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="60%">
                 </a>
               </v-flex>
               <v-flex xs12 md2>
@@ -140,6 +140,9 @@
                 <a href="https://ieeechile.cl/" target="_blank">
                   <img src="../assets/ieeechile.png" alt="ISCI" height="100%" width="100%">
                 </a>
+                <a href="https://new.abb.com/service/es/training/abb-university/chile" target="_blank">
+                  <img src="../assets/abb.png" alt="IEEE" height="20%" width="100%">
+                </a>
               </v-flex>
             </v-layout>
           </v-container>
@@ -148,3 +151,11 @@
     </v-parallax>
   </section>
 </template>
+<script>
+export default {
+  name: 'Papers',
+  data: () => ({
+    programa:`${process.env.BASE_URL}IngelectraPrograma.pdf`,
+  }),
+};
+</script>
