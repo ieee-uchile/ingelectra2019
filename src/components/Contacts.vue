@@ -38,7 +38,7 @@
                   <v-icon  color="#099ec8">mdi-email</v-icon>
                 </v-list-item-action>
                 <v-list-item-content>
-                  <v-list-item-title>ramauchile@ieee.org</v-list-item-title>
+                  <v-list-item-title><a href="mailto:name@email.com">ramauchile@ieee.org</a> </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
             </v-list>

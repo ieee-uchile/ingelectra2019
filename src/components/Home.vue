@@ -9,7 +9,25 @@
       >
         <img src="../assets/Ingelectra_logo.png" alt="Vuetify.js" height="300">
         <h1 class="black--text mb-2 display-1 text-center">AVANZANDO A UN FUTURO SOSTENIBLE</h1>
-        <div class="black--text subheading mb-4 text-center">Rama Estudiantil IEEE Universidad de Chile</div>
+        <div class="black--text subheading mb-4 text-center">
+
+          <v-list-item-group  v-model="item" color="primary">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon x-large color="#099ec8">mdi-update</v-icon>
+              </v-list-item-icon>
+              <v-list-item-content>
+                <v-list-item-title>
+                  <b>Dada la situación nacional y con el fin de precautelar la seguridad</br>
+                    y el bienestar de las/los participantes, la organización de INGELECTRA 2019 </br>
+                    considera prudente y necesario posponer el evento. Publicaremos por este medio la nueva fecha. </b> </br>
+                  Para mas información comunicarse con <a href="mailto:name@email.com">ramauchile@ieee.org</a>
+                 </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+          </v-list-item-group>
+        </div>
+
         <v-btn
           class="mt-12"
           color="#099ec8"
@@ -29,7 +47,7 @@
         <div class="text-center">
           <h2 class="headline">INGELECTRA 2019</h2>
           <span class="subheading">
-            27, 28 Y 29 NOVIEMBRE, SANTIAGO, CHILE
+            <strike>27, 28 Y 29 NOVIEMBRE, SANTIAGO, CHILE</strike>
           </span>
         </div>
       </v-flex>
@@ -156,6 +174,7 @@ export default {
   name: 'Papers',
   data: () => ({
     programa:`${process.env.BASE_URL}IngelectraPrograma.pdf`,
+    item:0,
   }),
 };
 </script>
