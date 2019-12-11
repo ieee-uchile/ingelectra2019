@@ -18,9 +18,7 @@
               </v-list-item-icon>
               <v-list-item-content>
                 <v-list-item-title>
-                  <b>Dada la situación nacional y con el fin de precautelar la seguridad</br>
-                    y el bienestar de las/los participantes, la organización de INGELECTRA 2019 </br>
-                    considera prudente y necesario posponer el evento. Publicaremos por este medio la nueva fecha. </b> </br>
+                  <h3>1, 2 y 3 de Abril 2020, Beauchef 851 Santiago de Chile. Fecha por confirmar</h3>
                   Para mas información comunicarse con <a href="mailto:name@email.com">ramauchile@ieee.org</a>
                  </v-list-item-title>
               </v-list-item-content>
