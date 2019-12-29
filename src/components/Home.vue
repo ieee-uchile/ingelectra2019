@@ -130,21 +130,24 @@
                   <img src="../assets/ieee.png" alt="IEEE" height="20%" width="100%">
                 </a>
               </v-flex>
-              <v-flex xs12 md2>
+              <v-flex xs12 md3>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold">PLATINUM SPONSORS</div>
                 <a href="https://www.isci.cl/" target="_blank">
                   <img src="../assets/ISCI.png" alt="ISCI" height="100%" width="100%">
                 </a>
               </v-flex>
-              <v-flex xs12 md3>
+              <v-flex xs12 md2>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold mb-3">SILVER SPONSORS</div>
                 <a href="https://www.nic.cl/" target="_blank">
                   <img src="../assets/Logo_Nic_Chile.png" alt="NIC CHILE" height="20%" width="100%">
                 </a>
+                <a href="#" target="_blank">
+                  <img src="../assets/iass.png" alt="IAS" height="20%" width="80%">
+                </a>
                 <a href="http://prontus.codelco.cl/" target="_blank">
-                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="60%">
+                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="80%">
                 </a>
               </v-flex>
               <v-flex xs12 md2>
