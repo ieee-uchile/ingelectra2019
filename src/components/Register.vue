@@ -71,8 +71,8 @@
                   Fechas (sujetas a cambio)</div>
               </v-card-title>
               <v-card-text  >
-                &bull; Fecha límite para pago de registro de autores  <strong> 14 de noviembre, 2019</strong> <br>
-                &bull; Fecha límite para pago de registro de asistents <strong> 17 de noviembre, 2019</strong>  <br>
+                &bull; Fecha límite para pago de registro de autores  <strong> 13 de marzo, 2020</strong> <br>
+                &bull; Fecha límite para pago de registro de asistentes <strong> 20 de marzo, 2020</strong>  <br>
                  <br>
                 <i>Cualquier registro luego de las fechas límite tienen un cargo de <strong>15%</strong> adicional al precio regular en cada categoría </i>   <br>
                 <br>

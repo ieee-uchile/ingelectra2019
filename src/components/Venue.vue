@@ -22,7 +22,7 @@
                   <v-icon x-large color="#099ec8">mdi-map</v-icon>
                 </v-card-text>
                 <v-card-text >
-                  <b>Miércoles 27 - Viernes 29, Noviembre, 2019</b> <br>
+                  <b>Miércoles 1 - Viernes 3, Abril, 2020</b> <br>
                   &bull; Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile<br>
                   &bull; Beauchef 851, Santiago, Región Metropolitana <br>
                 </v-card-text>

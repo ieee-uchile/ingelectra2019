@@ -114,10 +114,10 @@ export default {
   data: () => ({
     items: [
       { text: '<strike> Fecha límite (Deadline) 3 de noviembre 2019 </strike>', icon: 'mdi-clock' },
-      { text: 'Fecha límite extendida (Deadline) 5 de noviembre 2019', icon: 'mdi-clock' },
+      { text: 'Fecha límite (Deadline) 22 de enero 2020', icon: 'mdi-clock' },
       { text: 'Enlance para envío de papers <a href="https://easychair.org/conferences/?conf=ingelectra2019" target="_blank">EasyChair</a>',
       icon: 'mdi-email-send-outline' },
-      { text: 'Notificación a los autores 10 de noviembre', icon: 'mdi-inbox' },
+      { text: 'Notificación a los autores 6 de marzo 2020', icon: 'mdi-inbox' },
     ],
     item:0,
   }),

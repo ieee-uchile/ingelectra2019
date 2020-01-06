@@ -111,56 +111,56 @@
                   <!-- Content  rama.jpg -->
                   <div class="black--text heading mb-4 text-center font-weight-bold ">ORGANIZADORES</div>
                 <a href="#">
-                  <img src="../assets/rama.png" alt="Organizadores" height="100%" width="100%">
+                  <img src="../assets/rama.png" alt="Organizadores" height="50%" width="80%">
                 </a>
               </v-flex>
               <v-flex xs12 md3>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold">COLABORADORES</div>
                 <a href="#">
-                  <img src="../assets/ceie.png" alt="Organizadores" height="20%" width="50%">
+                  <img src="../assets/ceie.png" alt="Organizadores" height="20%" width="40%">
                 </a>
                 <a href="#">
-                  <img src="../assets/ET.png" alt="Organizadores" height="20%" width="50%">
+                  <img src="../assets/ET.png" alt="Organizadores" height="20%" width="30%">
                 </a>
                 <a href="http://ingenieria.uchile.cl/" target="_blank">
-                  <img src="../assets/fcfm_die_png.png" alt="FCFM" height="20%" width="100%">
+                  <img src="../assets/fcfm_die_png.png" alt="FCFM" height="20%" width="70%">
                 </a>
                 <a href="https://www.ieee.org/" target="_blank">
-                  <img src="../assets/ieee.png" alt="IEEE" height="20%" width="100%">
+                  <img src="../assets/ieee.png" alt="IEEE" height="20%" width="70%">
                 </a>
               </v-flex>
               <v-flex xs12 md3>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold">PLATINUM SPONSORS</div>
                 <a href="https://www.isci.cl/" target="_blank">
-                  <img src="../assets/ISCI.png" alt="ISCI" height="100%" width="100%">
+                  <img src="../assets/ISCI.png" alt="ISCI" height="100%" width="90%">
                 </a>
               </v-flex>
               <v-flex xs12 md2>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold mb-3">SILVER SPONSORS</div>
                 <a href="https://www.nic.cl/" target="_blank">
-                  <img src="../assets/Logo_Nic_Chile.png" alt="NIC CHILE" height="20%" width="100%">
+                  <img src="../assets/Logo_Nic_Chile.png" alt="NIC CHILE" height="20%" width="90%">
                 </a>
                 <a href="#" target="_blank">
-                  <img src="../assets/iass.png" alt="IAS" height="20%" width="80%">
+                  <img src="../assets/iass.png" alt="IAS" height="20%" width="90%">
                 </a>
                 <a href="http://prontus.codelco.cl/" target="_blank">
-                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="80%">
+                  <img src="../assets/codelco.png" alt="CODELOCO" height="20%" width="90%">
                 </a>
               </v-flex>
               <v-flex xs12 md2>
                 <!-- Content -->
                 <div class="black--text heading text-center font-weight-bold">BRONZE SPONSORS</div>
                 <a href="http://www.uchile.cl/portal/investigacion/centros-y-programas/centros-de-estudio/113400/centro-de-energia" target="_blank">
-                  <img src="../assets/enegia.png" alt="ISCI" height="100%" width="100%">
+                  <img src="../assets/enegia.png" alt="ISCI" height="100%" width="70%">
                 </a>
                 <a href="https://ieeechile.cl/" target="_blank">
-                  <img src="../assets/ieeechile.png" alt="ISCI" height="100%" width="100%">
+                  <img src="../assets/ieeechile.png" alt="ISCI" height="100%" width="80%">
                 </a>
                 <a href="https://new.abb.com/service/es/training/abb-university/chile" target="_blank">
-                  <img src="../assets/abb.png" alt="IEEE" height="20%" width="100%">
+                  <img src="../assets/abb.png" alt="IEEE" height="20%" width="80%">
                 </a>
               </v-flex>
             </v-layout>
