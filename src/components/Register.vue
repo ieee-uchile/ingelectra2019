@@ -57,9 +57,11 @@
           </tbody>
         </v-simple-table>
       </v-flex>
-      <div class="black--text mt-3 text-center">Incluye coffees y almuerzos. Además los estudiantes y profesionales miembros de IEEE </br>  tienen
-         descuentos de inscripción de acuerdo a la tabla que antecede. </br>
-         ¿No eres miembro de la IEEE? <a href=" https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join" target="_blank">Únete aquí</a></div>
+      <div class="black--text mt-3 text-center">Incluye coffees y almuerzos</div>
+
+      . Además los estudiantes y profesionales miembros de IEEE <br>  tienen descuentos de inscripción de acuerdo a la tabla que antecede. <br>
+         ¿No eres miembro de la IEEE? <a href=" https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join" target="_blank">Únete aquí</a>
+
     </v-layout>
     <v-flex xs12>
       <v-container grid-list-xl>
