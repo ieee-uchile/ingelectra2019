@@ -43,7 +43,7 @@
     <v-layout column wrap class="my-12" align-center>
       <v-flex xs12 sm4 class="my-4">
         <div class="text-center">
-          <h2 class="headline">INGELECTRA 2019</h2>
+          <h2 class="headline">INGELECTRA XXVIII</h2>
           <span class="subheading">
             <strike>27, 28 Y 29 NOVIEMBRE, SANTIAGO, CHILE</strike>
           </span>

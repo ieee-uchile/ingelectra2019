@@ -91,7 +91,7 @@
                   Método de pago nacional (CLP)</div>
               </v-card-title>
               <v-card-text  >
-                Envíe su comprobante a <a href="mailto:name@email.com">ramauchile@ieee.org</a>  indicando sus datos o modificando sus respuestas a través del link de
+                Envíe su comprobante a <a href="mailto:ramauchile@ieee.org">ramauchile@ieee.org</a>  indicando sus datos o modificando sus respuestas a través del link de
                 confirmación que le debe llegar a su correo una vez finalizado el registro.
                 <br>
                 <br>
@@ -101,7 +101,7 @@
                 <b>BANCO</b>: BANCO ESTADO  <br>
                 <b>CC</b>: N°  000-0-012312-9  <br>
                 <b>EMAIL</b>: macortes@ieee.org  <br>
-                <b>ASUNTO</b>:  INSCRIPCIÓN INGELECTRA  <br>
+                <b>ASUNTO</b>:  INSCRIPCIÓN INGELECTRA XXVIII <br>
               </v-card-text>
             </v-card>
           </v-flex>

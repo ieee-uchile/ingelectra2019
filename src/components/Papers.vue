@@ -34,10 +34,10 @@
                 </v-list-item-icon>
                 <v-list-item-content>
                   <v-list-item-title>
-                     Los papers aceptados y presentados en <br>
-                     <b>INGELECTRA2019</b> que cumplan los <br>
-                     estándares de publicación se indexarán en la<br>
-                     <b>base de datos IEEEXplore</b>
+
+                    Los trabajos aceptados se someterán  <br>
+                    para su publicación en <b>IEEE Xplore</b>
+
                    </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
@@ -60,7 +60,7 @@
                   <div class="headline">Sobre el evento</div>
                 </v-card-title>
                 <v-card-text class="text-justify">
-                  <b> INGELECTRA 2019 </b>  es una Conferencia oficial de IEEE. Es organizada por la Rama
+                  <b> INGELECTRA XXVIII </b>  es una Conferencia oficial de IEEE. Es organizada por la Rama
                   Estudiantil IEEE de la Universidad de Chile, Facultad de Ciencias Físicas y
                   Matemáticas de la Universidad de Chile, IEEE Chile Sección Centro, IEEE
                   Conference Record: <b>48985</b>
