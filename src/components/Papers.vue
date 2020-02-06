@@ -63,7 +63,7 @@
                   <b> INGELECTRA XXVIII </b>  es una Conferencia oficial de IEEE. Es organizada por la Rama
                   Estudiantil IEEE de la Universidad de Chile, Facultad de Ciencias Físicas y
                   Matemáticas de la Universidad de Chile, IEEE Chile Sección Centro, IEEE
-                  Conference Record: <b>48985</b>
+                  Conference Record: <b>50225</b>
                 </v-card-text>
               </v-card>
             </v-flex>
