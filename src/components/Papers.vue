@@ -34,10 +34,8 @@
                 </v-list-item-icon>
                 <v-list-item-content>
                   <v-list-item-title>
-
-                    Los trabajos aceptados se someterán  <br>
-                    para su publicación en <b>IEEE Xplore</b>
-
+                    Los trabajos aceptados se someterán <br>
+                    para su inclusión en <b>IEEE Xplore</b>
                    </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
