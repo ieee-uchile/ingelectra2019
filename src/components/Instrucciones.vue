@@ -10,13 +10,26 @@
         <h1 class="black--text display-1 text-center"> INSTRUCCIONES FINALES PARA <b>LOS AUTORES</b>  <br> DE LOS <b> PAPERS </b> PRESENTADOS EN   <b> INGELECTRA XXVIII </b> </h1>
       </v-layout>
     </v-parallax>
-    <v-layout column wrap class="my-12" align-center>
+    <v-layout column wrap align-center>
+      <br>
+      <v-list-item-group  v-model="item" color="primary">
+        <v-list-item>
+          <v-list-item-icon>
+            <v-icon x-large color="#099ec8">mdi-calendar</v-icon>
+          </v-list-item-icon>
+          <v-list-item-content>
+            <v-list-item-title>
+              El plazo para enviar la versión final es sábado 21 de marzo de 2020
+             </v-list-item-title>
+          </v-list-item-content>
+        </v-list-item>
+      </v-list-item-group>
       <v-flex xs12 sm4 class="my-4">
       </v-flex>
       <v-flex xs12 align="start">
         <v-container grid-list-xl>
           <v-layout row wrap align-start>
-            <v-flex xs12 md2>
+            <v-flex xs12 md1>
             </v-flex>
             <v-flex xs12 md3>
               <v-card flat class="transparent">
@@ -27,13 +40,13 @@
                   <div class="headline text-center"> 1. Formato</div>
                 </v-card-title>
                 <v-card-text class="text-justify">
-                  &bull; Asegúrese de utilizar la plantilla de conferencia de <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank"> IEEE</a> <br>
-                  &bull; El documento debe tener máximos 6 páginas (incluyendo figuras, tablas y referencias) <br>
-                  &bull; Recuerde que el formato será validado y los documentos que no cumplan este requisito  no serán enviados para su inclusión en <a href="https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEEXplore</a>. <br>
+                  &bull; Asegúrese de utilizar la plantilla de conferencia de <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank"> IEEE</a>. <br>
+                  &bull; El documento debe tener máximos 6 páginas (incluyendo figuras, tablas y referencias). <br>
+                  &bull; Recuerde que el formato será validado y los documentos que no cumplan este requisito  no serán enviados para su inclusión en IEEE Xplore. <br>
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs12 md3>
+            <v-flex xs12 md4>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-copyright</v-icon>
@@ -45,16 +58,16 @@
                   Debe agregar el aviso de derechos de autor correspondiente en la parte inferior izquierda de la
                   primera página de su documento, de acuerdo con las pautas establecidas en las Instrucciones de
                   Catalogación / Derechos de autor para una Conferencia de IEEE. Por favor, utilice el aviso de
-                  Copyright correspondiente según las siguientes indicaciones:
+                  Copyright correspondiente:
 
                   <br><br>
 
-                  &bull; For papers in which all authors are employed by the US government, the copyright notice is: U.S. Government work not protected by U.S. copyright <br>
-                  &bull; For papers in which all authors are employed by a Crown government (UK, Canada, and Australia), the copyright notice is: 978-1-7281-9716-6/20/$31.00 ©2020 Crown  <br>
-                  &bull; For papers in which all authors are employed by the European Union, the copyright notice is: 978-1-7281-9716-6/20/$31.00 ©2020 European Union <br>
-                  &bull; For all other papers the copyright notice is: 978-1-7281-9716-6/20/$31.00 ©2020 IEEE <br> <br>
+                  &bull; For papers in which all authors are employed by the US government, the copyright notice is: <b>U.S. Government work not protected by U.S. copyright</b>. <br>
+                  &bull; For papers in which all authors are employed by a Crown government (UK, Canada, and Australia), the copyright notice is: <b>978-1-7281-9716-6/20/$31.00 ©2020 Crown </b>. <br>
+                  &bull; For papers in which all authors are employed by the European Union, the copyright notice is: <b>978-1-7281-9716-6/20/$31.00 ©2020 European Union</b>. <br>
+                  &bull; For all other papers the copyright notice is: <b>978-1-7281-9716-6/20/$31.00 ©2020 IEEE</b>. <br> <br>
 
-                  Las instrucciones detalladas se pueden encontrar en <a href="https://www.ieee.org/publications/rights/index.html" target="_blank">https://www.ieee.org</a>
+                  Las instrucciones detalladas se encuentran en <a href="https://www.ieee.org/publications/rights/index.html" target="_blank">https://www.ieee.org/publications/rights/index.html</a>
 
                 </v-card-text>
               </v-card>
@@ -65,14 +78,14 @@
                   <v-icon x-large color="#099ec8">mdi-checkbox-marked-circle-outline</v-icon>
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
-                  <div class="headline text-center">3. Verificación de compatibilidad</div>
+                  <div class="headline text-center">3. Verificar compatibilidad</div>
                 </v-card-title>
                 <v-card-text class="text-justify">
                   Utilice <a href="https://www.pdf-express.org/plus" target="_blank"> <b>IEEE PDF eXpress Plus</b> </a>  para convertir sus documentos
                   en archivos PDF compatibles con IEEE Xplore o verificar que sus archivos PDF son compatibles  con IEEE Xplore. <br> <br>
 
                   &bull; En caso de no tener una cuenta de usuario, deberá crearla y seguir las instrucciones del sistema.<br>
-                  &bull; El ID de la conferencia es 50225XP.<br>
+                  &bull; El ID de la conferencia es <b>50225XP</b>.<br>
                   <br>
                   Cualquier cambio realizado en el documento después de la verificación o conversión en IEEE PDF
                   eXpress Plus puede invalidar la compatibilidad con IEEE Xplore.
@@ -82,7 +95,7 @@
           </v-layout>
 
           <v-layout row wrap align-start>
-            <v-flex xs12 md2>
+            <v-flex xs12 md1>
             </v-flex>
             <v-flex xs12 md3>
               <v-card flat class="transparent">
@@ -90,15 +103,15 @@
                   <v-icon x-large color="#099ec8">mdi-email-send</v-icon>
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
-                  <div class="headline text-center"> 4. Envío de versión final  <br> mediante EasyChair</div>
+                  <div class="headline text-center"> 4. Envío de versión final  <br> EasyChair</div>
                 </v-card-title>
                 <v-card-text class="text-justify">
-                  &bull; Ingrese a su cuenta EasyChair y actualice su envío, cargando la versión final validada hasta el sábado 21 de marzo de 2020. Esta será la versión que se enviará a <b>IEEEXplore</b> <br>
-                  &bull; Verifique que los datos del paper (título, nombres y orden de los autores, afiliación, resumen y key words) estén correctamente ingresados en EasyChair y sean coherentes con el PDF final   validado. No se permiten nuevos autores o eliminaciones <br>
+                  &bull; Ingrese a su cuenta EasyChair y actualice su envío, cargando la versión final validada hasta el <b>sábado 21 de marzo de 2020</b>. Esta será la versión que se enviará a <b>IEEEXplore</b>. <br>
+                  &bull; Verifique que los datos del paper (título, nombres y orden de los autores, afiliación, resumen y key words) estén correctamente ingresados en EasyChair y sean coherentes con el PDF final   validado. No se permiten nuevos autores o eliminaciones. <br>
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs12 md3>
+            <v-flex xs12 md4>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-account-plus-outline</v-icon>
@@ -111,8 +124,8 @@
                   Al menos un autor por trabajo debe estar registrado (en la categoría Autores) y asistir a la
                   conferencia para presentar su trabajo. El registro se realiza en el siguiente formulario:
 
-                  <a href="https://forms.gle/ogHLNC1bmh2WL4SF8" target="_blank"> https://forms.gle/ogHLNC1bmh2WL4SF8</a>. La fecha límite para realizar el pago y registro de autores es 13 de marzo, 2020. <br><br>
-                  Para mayor información visite nuestro sitio web en la Sección de  <a href="/register">REGISTRO</a>
+                  <a href="https://forms.gle/ogHLNC1bmh2WL4SF8" target="_blank"> https://forms.gle/ogHLNC1bmh2WL4SF8</a>. La fecha límite para realizar el pago y registro de autores es <b>13 de marzo, 2020</b>. <br><br>
+                  Para mayor información visite nuestro sitio web en la Sección de <router-link to="/register">REGISTRO</router-link>
 
                 </v-card-text>
               </v-card>
@@ -123,7 +136,7 @@
                   <v-icon x-large color="#099ec8">mdi-folder-swap</v-icon>
                 </v-card-text>
                 <v-card-title primary-title class="layout justify-center">
-                  <div class="headline text-center">6. Transferencia de Copyright</div>
+                  <div class="headline text-center">6. Transferencia de <br> Copyright</div>
                 </v-card-title>
                 <v-card-text class="text-justify">
 
@@ -143,9 +156,9 @@
           </v-layout>
 
           <v-layout row wrap align-start>
-            <v-flex xs12 md5>
+            <v-flex xs12 md4>
             </v-flex>
-            <v-flex xs12 md3>
+            <v-flex xs12 md4>
               <v-card flat class="transparent">
                 <v-card-text class="text-center">
                   <v-icon x-large color="#099ec8">mdi-bell</v-icon>
@@ -157,8 +170,7 @@
                   &bull;  Los trabajos aceptados en la conferencia están sujetos a revisión de plagio con
                   herramientas de IEEE, para garantizar la originalidad del contenido. <br>
 
-                  &bull;  Los trabajos aceptados en la conferencia están sujetos a revisión de plagio con
-                  herramientas de IEEE, para garantizar la originalidad del contenido.
+                  &bull; Los trabajos no presentados en la conferencia no serán considerados para su inclusión en IEEE Xplore.
 
                 </v-card-text>
               </v-card>
