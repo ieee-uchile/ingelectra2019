@@ -40,6 +40,49 @@
     </v-parallax>
 
     <!-- Event Info -->
+    <v-dialog
+        v-model="dialog"
+        width="500"
+      >
+
+
+        <v-card>
+          <v-card-title
+            class="headline grey lighten-2" primary-title
+          >
+          Modificación a formato Virtual
+
+          </v-card-title>
+
+          <v-card-text  class="text-justify">
+            <br>
+            Ante los acontecimientos que están ocurriendo a nivel mundial producto de la pandemia COVID-19, el Comité
+            Organizador de INGELECTRA XXVIII, junto con el apoyo de IEEE sección Chile Centro y Sur, y nuestros
+            diferentes patrocinadores, se ha decidido SUSPENDER LA VERSIÓN PRESENCIAL DEL CONGRESO, por lo cual el
+            congreso se llevará a cabo en formato 100% virtual.<br>
+            Durante los próximos días daremos más detalles al respecto e indicaremos las plataformas que se utilizarán para las charlas virtuales.
+            Con los mejores deseos para cada uno de ustedes
+            <br><br>
+            Nos despedimos cordialmente,
+            <br>
+             <b>Comité Organizador INGELECTRA XXVIII</b>
+
+          </v-card-text>
+
+          <v-divider></v-divider>
+
+          <v-card-actions>
+            <v-spacer></v-spacer>
+            <v-btn
+              color="primary"
+              text
+              @click="dialog = false"
+            >
+             Cerrar
+            </v-btn>
+          </v-card-actions>
+        </v-card>
+      </v-dialog>
     <v-layout column wrap class="my-12" align-center>
       <v-flex xs12 sm4 class="my-4">
         <div class="text-center">
@@ -175,6 +218,7 @@ export default {
   name: 'Papers',
   data: () => ({
     programa:`${process.env.BASE_URL}IngelectraPrograma.pdf`,
+    dialog:true,
     item:0,
   }),
 };

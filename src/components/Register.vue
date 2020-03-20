@@ -28,27 +28,27 @@
           <tbody>
             <tr>
               <td>Estudiantes membresía IEEE</td>
-              <td>20.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Estudiantes</td>
-              <td>25.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Profesionales con membresía IEEE</td>
-              <td>35.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Profesionales</td>
-              <td>40.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Estudiantes UChile</td>
-              <td>15.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Estudiantes UChile (No incluye almuerzos)</td>
-              <td>10.000</td>
+              <td>0</td>
             </tr>
             <tr>
               <td>Autores (los autores pueden asociar máximo 1 paper a su registro)   <strong>*</strong> </td>
@@ -57,7 +57,11 @@
           </tbody>
         </v-simple-table>
       </v-flex>
-      <div class="black--text mt-3 text-center">Incluye coffees y almuerzos. <i> <br> <br>Los estudiantes y profesionales miembros de IEEE <br>  tienen descuentos de inscripción de acuerdo a la tabla que antecede. <br>
+      <div class="black--text mt-3 text-center">
+       <strike>   Incluye coffees y almuerzos.</strike>  <i> <br> <br>
+         <strike>Los estudiantes y profesionales miembros de IEEE</strike>
+        <br>  <strike>tienen descuentos de inscripción de acuerdo a la tabla que antecede.</strike>
+        <br>
                ¿No eres miembro de IEEE? <a href=" https://www.ieee.org/membership/join/index.html?WT.mc_id=hc_join" target="_blank">Únete aquí</a></i></div>
 
 
@@ -72,11 +76,10 @@
             <v-card flat class="transparent">
               <v-card-title primary-title class="layout justify-center">
                 <div class="headline"><v-icon x-large color="#099ec8">mdi-calendar-range</v-icon>
-                  Fechas (sujetas a cambio)</div>
+                  Fechas</div>
               </v-card-title>
               <v-card-text  >
-                &bull; Fecha límite para pago de registro de autores  <strong> 13 de marzo, 2020</strong> <br>
-                &bull; Fecha límite para pago de registro de asistentes <strong> 20 de marzo, 2020</strong>  <br>
+                &bull; Fecha límite para pago de registro de autores  <strong> 22 de marzo, 2020</strong> <br>
                  <br>
                 <i>Cualquier registro luego de las fechas límite tienen un cargo de <strong>15%</strong> adicional al precio regular en cada categoría </i>   <br>
                 <br>
