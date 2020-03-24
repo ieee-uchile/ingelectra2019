@@ -56,16 +56,7 @@
 
           <v-card-text  class="text-justify">
             <br>
-            Ante los acontecimientos que están ocurriendo a nivel mundial producto de la pandemia COVID-19, el Comité
-            Organizador de INGELECTRA XXVIII, junto con el apoyo de IEEE sección Chile Centro y Sur, y nuestros
-            diferentes patrocinadores, se ha decidido SUSPENDER LA VERSIÓN PRESENCIAL DEL CONGRESO, por lo cual el
-            congreso se llevará a cabo en formato 100% virtual.<br>
-            Durante los próximos días daremos más detalles al respecto e indicaremos las plataformas que se utilizarán para las charlas virtuales.
-            Con los mejores deseos para cada uno de ustedes
-            <br><br>
-            Nos despedimos cordialmente,
-            <br>
-             <b>Comité Organizador INGELECTRA XXVIII</b>
+            <img src="../assets/landing.png" alt="Detalle del Programa" height="100%" width="100%">
 
           </v-card-text>
 

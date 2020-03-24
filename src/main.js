@@ -14,6 +14,11 @@ Vue.use(VueAnalytics, {
 
 Vue.config.productionTip = false
 
+const ignoreWarnMessage = 'The .native modifier for v-on is only valid on components but it was used on <div>.';
+Vue.config.warnHandler = function (msg) {
+  if (msg === ignoreWarnMessage) msg = null;
+}
+
 new Vue({
   vuetify,
   router,

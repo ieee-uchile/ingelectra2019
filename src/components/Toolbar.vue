@@ -11,7 +11,7 @@
       <v-btn text  to="/callpapers">CALL FOR PAPERS</v-btn>
       <v-btn text  to="/instrucciones">INSTRUCCIONES FINALES</v-btn>
       <v-btn text  to="/visit">Visita técnica</v-btn>
-      <v-btn text  to="/venue">VENUE</v-btn>
+      <v-btn text  to="/charlas">CHARLAS MAGISTRALES</v-btn>
     </v-toolbar-items>
   </v-toolbar>
 </template>

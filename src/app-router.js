@@ -4,7 +4,7 @@ import Home from './components/Home'
 import Register from './components/Register'
 import Paper from './components/Papers'
 import Visit from './components/Visit'
-import Venue from './components/Venue'
+import Charlas from './components/Charlas'
 import Instrucciones from './components/Instrucciones'
 
 Vue.use(VueRouter)
@@ -16,7 +16,7 @@ const routes = [
   { path: '/callpapers', component:  Paper },
   { path: '/instrucciones', component:  Instrucciones },
   { path: '/visit', component:  Visit },
-  { path: '/venue', component:  Venue },
+  { path: '/charlas', component:  Charlas },
 ]
 
 export default new VueRouter({

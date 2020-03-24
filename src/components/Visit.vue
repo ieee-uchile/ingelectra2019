@@ -7,7 +7,7 @@
         justify-center
         class="white--text"
       >
-        <h1 class="black--text display-1 text-center">VISITA TÉCNICA</h1>
+        <h1 class="black--text display-1 text-center">VISITA TÉCNICA (Cancelada por COVID-19)</h1>
       </v-layout>
     </v-parallax>
 

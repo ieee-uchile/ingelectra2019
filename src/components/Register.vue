@@ -17,6 +17,22 @@
           <a href="https://www.google.com/url?q=https://forms.gle/ogHLNC1bmh2WL4SF8&sa=D&source=hangouts&ust=1572542885137000&usg=AFQjCNFQyAg64I-8zEdusGQpB_hXeIZ9Jg" target="_blank">
             Formulario de registro
           </a>
+
+          <v-list-item-group  v-model="item" color="primary">
+            <v-list-item>
+              <v-list-item-icon>
+                <v-icon x-large color="#099ec8">mdi-information-outline</v-icon>
+              </v-list-item-icon>
+              <v-list-item-content>
+                <v-list-item-title>
+                  Los datos proporcionados en este formulario serán utilizados únicamente con fines estadísticos. <br>
+                  Ahora que las charlas magistrales serán de forma virtual,  publicaremos los enlaces   <br>
+                  para que puedan conectarse de forma abierta, independientemente de este registro.
+                 </v-list-item-title>
+              </v-list-item-content>
+            </v-list-item>
+          </v-list-item-group>
+
       </div>
         <v-simple-table class="md12">
           <thead>
@@ -117,3 +133,13 @@
   </section>
 
 </template>
+
+<script>
+export default {
+  name: 'Register',
+  data: () => ({
+    items: [  ],
+    item:0,
+  }),
+};
+</script>
