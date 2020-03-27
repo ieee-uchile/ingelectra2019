@@ -31,10 +31,10 @@
           color="#099ec8"
           dark
           large
-          :href="programa"
+           to="/charlas"
           target='_blank'
         >
-          Programa
+          Charlas Magistrales
         </v-btn>
       </v-layout>
     </v-parallax>
@@ -208,7 +208,6 @@
 export default {
   name: 'Papers',
   data: () => ({
-    programa:`${process.env.BASE_URL}IngelectraPrograma.pdf`,
     dialog:true,
     item:0,
   }),
