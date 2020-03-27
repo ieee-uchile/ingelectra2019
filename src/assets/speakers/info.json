@@ -1,5 +1,15 @@
 [
   {
+    "start":"2020-04-01 10:30",
+    "end": "2020-04-01 11:00",
+    "color":"cyan",
+    "name":"Palabras de Inauguración",
+    "speaker":"Patricio Mendoza",
+    "title":"",
+    "url":"http://centroenergia.cl/wp-content/uploads/2015/12/patricio-mendoza.jpg",
+    "bio":"Profesor Asistente (2014-presente) en el Departamento de Ingeniería Eléctrica de la Universidad de Chile. Ph.D. (2008-2014) de la Universidad de Wisconsin-Madison, en el grupo de máquinas eléctricas y electrónica de potencia WEMPEC. Miembro del Centro de Energía y del Centro de investigación de Energía Solar (SERC Chile)."
+  },
+  {
     "start":"2020-04-01 11:00",
     "end": "2020-04-01 11:30",
     "color":"blue",
@@ -13,7 +23,7 @@
     "start":"2020-04-01 15:00",
     "end": "2020-04-01 15:30",
     "color":"blue",
-    "name":"Por Definir ...",
+    "name":"Por Definir",
     "speaker":"Carlos Sing Long",
     "title":"Por Definir",
     "url":"https://ingenieriabiologicaymedica.uc.cl/images/personas/c-sing-long.jpg",
@@ -23,27 +33,37 @@
     "start":"2020-04-01 15:30",
     "end": "2020-04-01 16:00",
     "color":"blue",
-    "name":"Por Definir ...",
-    "speaker":"Patricio Mendoza",
-    "title":"Por Definir",
-    "url":"http://centroenergia.cl/wp-content/uploads/2015/12/patricio-mendoza.jpg",
-    "bio":"Profesor Asistente (2014-presente) en el Departamento de Ingeniería Eléctrica de la Universidad de Chile. Ph.D. (2008-2014) de la Universidad de Wisconsin-Madison, en el grupo de máquinas eléctricas y electrónica de potencia WEMPEC. Miembro del Centro de Energía y del Centro de investigación de Energía Solar (SERC Chile)."
+    "name":"Medidas clave para fomentar la flexibilid ...",
+    "speaker":"Rodrigo Moreno",
+    "title":"Medidas clave para fomentar la flexibilidad en el mercado eléctrico chileno",
+    "url":"http://centroenergia.cl/wp-content/uploads/2015/12/rodrigo-moreno.jpg",
+    "bio":"Es Profesor Asistente en la Universidad de Chile. Licenciatura en Ciencias de la Ingeniería - Pontificia Universidad Católica. Ingeniero Civil de Industrias (Diploma en Electricidad) - Pontificia Universidad Católica de Chile. Magíster en Ciencias de la Ingeniería (Sistemas de Potencia) - Pontificia Universidad Católica de Chile. PhD (Sistemas de Potencia) - Imperial College London. "
   },
   {
     "start":"2020-04-02 9:30",
     "end": "2020-04-02 10:00",
     "color":"blue",
-    "name":"Por Definir ...",
+    "name":"Por Definir",
     "speaker":"Maisa Rojas",
     "title":"Por Definir",
     "url":"https://i0.wp.com/www.espaciopublico.cl/wp-content/uploads/2016/09/MAISA-ROJAS.jpg",
     "bio":"Climatóloga, experta en cambio climático. Licenciada en Física de la Universidad de Chile y Doctorada en Física de la Atmósfera de la Universidad de Oxford, Inglaterra, con un Postdoctorado en la Universidad de Columbia, EE.UU. Actualmente es profesora asociada de la Universidad de Chile. A lo largo de su carrera ha desarrollado dos áreas de investigación principales: paleo clima y de cambio climático regional. Maisa es investigadora del (CR)2 y académica del Departamento de Geofísica de la Universidad de Chile."
   },
   {
+    "start":"2020-04-02 10:00",
+    "end": "2020-04-02 10:30",
+    "color":"blue",
+    "name":"Por Definir",
+    "speaker":"Patricio Mendoza",
+    "title":"Por Definir",
+    "url":"http://centroenergia.cl/wp-content/uploads/2015/12/patricio-mendoza.jpg",
+    "bio":"Profesor Asistente (2014-presente) en el Departamento de Ingeniería Eléctrica de la Universidad de Chile. Ph.D. (2008-2014) de la Universidad de Wisconsin-Madison, en el grupo de máquinas eléctricas y electrónica de potencia WEMPEC. Miembro del Centro de Energía y del Centro de investigación de Energía Solar (SERC Chile)."
+  },
+  {
     "start":"2020-04-02 10:30",
     "end": "2020-04-02 11:00",
     "color":"blue",
-    "name":"LiFi",
+    "name":"LiFi: Challenges and Opportunities!",
     "speaker":"César Azurdia",
     "title":"LiFi: Challenges and Opportunities!",
     "url":"http://en.die.cl/wp-content/uploads/2015/09/cesar-azurdia.jpg",
@@ -53,9 +73,9 @@
     "start":"2020-04-02 11:00",
     "end": "2020-04-02 11:30",
     "color":"blue",
-    "name":"Comunicaciones ópticas",
+    "name":"Desafíos científicos en fibras ópticas.. ",
     "speaker":"Gabriel Saavedra",
-    "title":"Comunicaciones ópticas",
+    "title":"Desafíos científicos en fibras ópticas: en búsqueda de conexiones más veloces",
     "url":"https://fi.udec.cl/wp-content/uploads/2019/04/gabriel_saavedra.png",
     "bio":"Ingeniero Civil en Telecomunicaciones. MSc en ciencias de la ingeniería con mención en Ing. eléctrica, Universidad de Concepción. PhD in electronic engineering, University College London. Sus líneas de investigación son Comunicaciones ópticas y Procesamiento digital de señales."
   },
@@ -70,13 +90,23 @@
     "bio":"Ingeniero en Sistemas Electrónicos de la Escuela Militar de Ingeniería Mcal. Antonio José de Sucre (La Paz, Bolivia), 2011. Consiguió los títulos de Maestría en Ciencias con Especialidad en Ingeniería Electrónica (Telecomunicaciones) y Doctorado en Tecnologías de Información y Comunicaciones del Tecnólogico de Monterrey (Monterrey, México) durante los años de 2014 y 2018, respectivamente. Actualmente, realiza un Postdoctorado sobre  la Reducción de los principales impedimentos de sistemas de RoF-OFDM basados en modems con computación paralela a través de la técnica de filtro de Nyquist-I en la Universidad Católica del Maule (Talca). Sus intereses de investigación radican en: Orthogonal frequency division multiplexing, Optical communication systems y Extreme Learning Machines."
   },
   {
+    "start":"2020-04-03 11:00",
+    "end": "2020-04-03 11:30",
+    "color":"blue",
+    "name":"Por definir",
+    "speaker":"Sergio Torres",
+    "title":"Por definir",
+    "url":"https://fi.udec.cl/wp-content/uploads/2019/01/Sergio-Torres.jpg",
+    "bio":"Ingeniero Civil Eléctrico, Doctor en Ingeniería, University of Dayton, Ohio, USA. Es Profesor Titular de la Universidad de Concepción. Sus líneas de investigación son Procesamiento Digital de Imágenes y Señales, Optoelectrónica, Sensores Ópticos, Termografía infrarroja."
+  },
+  {
     "start":"2020-04-03 11:30",
     "end": "2020-04-03 12:00",
     "color":"blue",
     "name":"Avances científicos y tecnológicos en electromovilidad",
     "speaker":"Margarita Norambuena",
     "title":"Avances científicos y tecnológicos en electromovilidad",
-    "url":"https://i1.rgstatic.net/ii/profile.image/626564593115151-1526396048861_Q512/Margarita_Norambuena.jpg",
+    "url":"https://i.ibb.co/GQq8yxm/AUTHOR-Norambuena-page-0001.jpg",
     "bio":"Margarita Norambuena obtuvo el título de Ingenierio civil electricista y el grado Magister en Ciencias de la Ingeniería Eléctrica en la Universidad Técnica Federico Santa María (UTFSM), Valparaíso, Chile, en 2013. Ella obtuvo el grado de Doctor en Ingeniería Electrónica (summa cum laude) de la UTFSM en 2017 y el grado de Doktoringenieur (Dr-Ing.) (summa cum laude) de la Universidad Técnica de Berlín (TUB) en 2018. En 2019 ella recibe el premio “IEEE IES Best student paper award” por su trabajo doctoral. Actualmente ella es profesora de la Universidad Técnica Federico Santa María. Sus áreas de interés son convertidores multilevel, model predictive control, accionamientos, sistemas de almacenamiento de energía, energía renovable y electromovilidad."
   }
 ]
