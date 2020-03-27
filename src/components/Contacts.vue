@@ -46,8 +46,7 @@
                   <v-icon  color="#099ec8">mdi-facebook</v-icon>
                 </v-list-item-action>
                 <v-list-item-content>
-                  <v-list-item-title>
-                    Rama Estudiantil IEEE UChile <a href=" https://www.facebook.com/ramaieeeuchile/" target="_blank">@ramaieeeuchile</a>  
+                  <v-list-item-title> <a href=" https://www.facebook.com/ramaieeeuchile/" target="_blank">@ramaieeeuchile</a>  
                   </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
