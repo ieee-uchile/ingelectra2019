@@ -18,7 +18,7 @@
               <v-btn fab text small color="grey darken-2">
                 <v-icon small>mdi-chevron-left</v-icon>
               </v-btn>
-              <v-toolbar-title>{{ title }}</v-toolbar-title>
+              <v-toolbar-title v-html="title"></v-toolbar-title>
             </v-toolbar>
           </v-sheet>
           <v-sheet height="600">
@@ -50,11 +50,11 @@
                 <v-card-title >{{selectedEvent.speaker}}</v-card-title>
               </v-img>
               <v-card-text class="text-justify">
-                <span justify-text>{{selectedEvent.title}}</span>
+                <span justify-text v-html="selectedEvent.title"></span>
                 <br><br>
-                <h3>Biografia</h3>
+                <h3>Información</h3>
                 <br>
-                  <span>{{selectedEvent.bio}}</span>
+                  <span  v-html="selectedEvent.bio"></span>
               </v-card-text >
                 <v-card-actions>
                   <v-btn
@@ -70,6 +70,38 @@
           </v-sheet>
         </v-col>
       </v-row>
+      <v-flex xs12 align="start">
+        <v-container grid-list-xl>
+          <v-layout row wrap align-start>
+            <v-flex xs12 md4> </v-flex>
+            <v-flex xs12 md4>
+              <v-card flat class="transparent">
+                <v-card-text class="text-center">
+                  <v-icon x-large color="#099ec8">mdi-puzzle</v-icon>
+                </v-card-text>
+                <v-card-title primary-title class="layout justify-center">
+                  <div class="headline text-center"> Extensiones para el uso de Cisco Webex</div>
+                </v-card-title>
+                <v-card-text>
+                  <br>
+                  Webex Chrome: <a href="https://chrome.google.com/webstore/detail/cisco-webex-extension/jlhmfgmfgeifomenelglieieghnjghma?hl=es" target="_blank">
+                    https://chrome.google.com/webstore/detail/cisco-webex-extension/jlhmfgmfgeifomenelglieieghnjghma?hl=es
+                  </a>
+                  <br> <br> Webex Android:
+                  <a href="https://play.google.com/store/apps/details?id=com.cisco.webex.meetings&hl=es_CL" target="_blank">
+                    https://play.google.com/store/apps/details?id=com.cisco.webex.meetings&hl=es_CL
+                  </a>
+                  <br> <br>  Webex iOS: <a href="https://apps.apple.com/es/app/cisco-webex-meetings/id298844386">
+                    https://apps.apple.com/es/app/cisco-webex-meetings/id298844386
+                  </a>
+                </v-card-text>
+              </v-card>
+            </v-flex>
+            <v-flex xs12 md4> </v-flex>
+
+          </v-layout>
+        </v-container>
+      </v-flex>
     </v-layout>
   </section>
 </template>

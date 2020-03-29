@@ -1,5 +1,35 @@
 [
   {
+    "start":"2020-04-01",
+    "end": "2020-04-01",
+    "color":"green",
+    "name":"LINK DE REGISTRO PARA ESTE DÍA",
+    "speaker":"Webex",
+    "title":"Link de Registro: </br><a href='https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ed0cfaaeb71c0110ac28e0de9893e2250' target='_blank'>https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=ed0cfaaeb71c0110ac28e0de9893e2250</a>",
+    "url":"https://cdn.windowsreport.com/wp-content/uploads/2019/10/WebEx-886x590.jpg",
+    "bio":"1. Registrarse por día </br> 2. Esperar correo de confirmación </br>  3. Click en el botón JOIN EVENT que llega a su correo  "
+  },
+  {
+    "start":"2020-04-02",
+    "end": "2020-04-02",
+    "color":"green",
+    "name":"LINK DE REGISTRO PARA ESTE DÍA",
+    "speaker":"Webex",
+    "title":"Link de Registro: </br><a href='https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e6d3dd531851d5d9bfd58bc74ac04a478' target='_blank'>https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e6d3dd531851d5d9bfd58bc74ac04a478</a>",
+    "url":"https://cdn.windowsreport.com/wp-content/uploads/2019/10/WebEx-886x590.jpg",
+    "bio":"1. Registrarse por día </br> 2. Esperar correo de confirmación </br>  3. Click en el botón JOIN EVENT que llega a su correo  "
+  },
+  {
+    "start":"2020-04-03",
+    "end": "2020-04-03",
+    "color":"green",
+    "name":"LINK DE REGISTRO PARA ESTE DÍA",
+    "speaker":"Webex",
+    "title":"Link de Registro: </br><a href='https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e01c302a0d68278862095d5ff4c0c7087' target='_blank'>https://ieeemeetings.webex.com/ieeemeetings/onstage/g.php?MTID=e01c302a0d68278862095d5ff4c0c7087</a>",
+    "url":"https://cdn.windowsreport.com/wp-content/uploads/2019/10/WebEx-886x590.jpg",
+    "bio":"1. Registrarse por día </br> 2. Esperar correo de confirmación </br>  3. Click en el botón JOIN EVENT que llega a su correo  "
+  },
+  {
     "start":"2020-04-01 10:30",
     "end": "2020-04-01 11:00",
     "color":"cyan",
@@ -88,6 +118,16 @@
     "title":"Máquinas de aprendizaje extremo (ELMs) para reducir el ruido de fase en comunicaciones ópticas moduladas por OFDM",
     "url":"https://www.litrp.cl/images/rostro_David_Zabala.jpg",
     "bio":"Ingeniero en Sistemas Electrónicos de la Escuela Militar de Ingeniería Mcal. Antonio José de Sucre (La Paz, Bolivia), 2011. Consiguió los títulos de Maestría en Ciencias con Especialidad en Ingeniería Electrónica (Telecomunicaciones) y Doctorado en Tecnologías de Información y Comunicaciones del Tecnólogico de Monterrey (Monterrey, México) durante los años de 2014 y 2018, respectivamente. Actualmente, realiza un Postdoctorado sobre  la Reducción de los principales impedimentos de sistemas de RoF-OFDM basados en modems con computación paralela a través de la técnica de filtro de Nyquist-I en la Universidad Católica del Maule (Talca). Sus intereses de investigación radican en: Orthogonal frequency division multiplexing, Optical communication systems y Extreme Learning Machines."
+  },
+  {
+    "start":"2020-04-02 15:00",
+    "end": "2020-04-02 15:30",
+    "color":"blue",
+    "name":"Por definir",
+    "speaker":"Pamela Guevara",
+    "title":"Por definir",
+    "url":"https://fi.udec.cl/wp-content/uploads/2019/01/Pamela-Guevara.jpg",
+    "bio":"Ingeniera Civil Electrónica. Máster 2 en Información, Sistemas y Tecnología, especialidad Imagenología Médica, Université Paris-Sud, Francia. Doctorado en Física, Université Paris-Sud, Francia. Sus líneas de investigación son Análisis de imágenes Médicas, Estudio de conectividad cerebral estructural, Visualización Científica, Desarrollo de software de alto rendimiento, Desarrollo de aplicaciones para el área de la salud."
   },
   {
     "start":"2020-04-03 11:00",
